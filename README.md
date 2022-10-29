@@ -1,4 +1,4 @@
-# linux script for updating 'MultiViewer for F1'  
+# linux based bash script for updating 'MultiViewer for F1'  
 
 https://beta.f1mv.com/  
 
