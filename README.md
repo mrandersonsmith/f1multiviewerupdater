@@ -2,7 +2,7 @@
 
 https://beta.f1mv.com/  
 
-needs wget  
+needs wget and unzip
 
 will download and extract into HOME directory and create new folder 'MultiViewer for F1-linux-x64'  
 
